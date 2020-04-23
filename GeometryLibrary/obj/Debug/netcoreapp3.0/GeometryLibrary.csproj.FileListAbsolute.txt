@@ -1,0 +1,8 @@
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.0\GeometryLibrary.deps.json
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.0\GeometryLibrary.dll
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.0\GeometryLibrary.pdb
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.0\GeometryLibrary.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.0\GeometryLibrary.dll
+C:\Users\Denis\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.0\GeometryLibrary.pdb
